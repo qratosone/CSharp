@@ -1,0 +1,6 @@
+D:\DATA\GitHub\CSharp\Jiaogu100\Jiaogu100\bin\Debug\Jiaogu100.exe.config
+D:\DATA\GitHub\CSharp\Jiaogu100\Jiaogu100\bin\Debug\Jiaogu100.exe
+D:\DATA\GitHub\CSharp\Jiaogu100\Jiaogu100\bin\Debug\Jiaogu100.pdb
+D:\DATA\GitHub\CSharp\Jiaogu100\Jiaogu100\obj\Debug\Jiaogu100.csprojResolveAssemblyReference.cache
+D:\DATA\GitHub\CSharp\Jiaogu100\Jiaogu100\obj\Debug\Jiaogu100.exe
+D:\DATA\GitHub\CSharp\Jiaogu100\Jiaogu100\obj\Debug\Jiaogu100.pdb

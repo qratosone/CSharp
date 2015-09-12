@@ -1,0 +1,6 @@
+D:\DATA\GitHub\CSharp\PrimeFilter\PrimeFilter\bin\Debug\PrimeFilter.exe.config
+D:\DATA\GitHub\CSharp\PrimeFilter\PrimeFilter\bin\Debug\PrimeFilter.exe
+D:\DATA\GitHub\CSharp\PrimeFilter\PrimeFilter\bin\Debug\PrimeFilter.pdb
+D:\DATA\GitHub\CSharp\PrimeFilter\PrimeFilter\obj\Debug\PrimeFilter.csprojResolveAssemblyReference.cache
+D:\DATA\GitHub\CSharp\PrimeFilter\PrimeFilter\obj\Debug\PrimeFilter.exe
+D:\DATA\GitHub\CSharp\PrimeFilter\PrimeFilter\obj\Debug\PrimeFilter.pdb

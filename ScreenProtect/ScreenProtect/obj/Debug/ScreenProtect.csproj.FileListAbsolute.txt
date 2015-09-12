@@ -1,0 +1,8 @@
+D:\DATA\GitHub\CSharp\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.Form1.resources
+D:\DATA\GitHub\CSharp\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.Properties.Resources.resources
+D:\DATA\GitHub\CSharp\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.csproj.GenerateResource.Cache
+D:\DATA\GitHub\CSharp\ScreenProtect\ScreenProtect\bin\Debug\ScreenProtect.exe.config
+D:\DATA\GitHub\CSharp\ScreenProtect\ScreenProtect\bin\Debug\ScreenProtect.exe
+D:\DATA\GitHub\CSharp\ScreenProtect\ScreenProtect\bin\Debug\ScreenProtect.pdb
+D:\DATA\GitHub\CSharp\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.exe
+D:\DATA\GitHub\CSharp\ScreenProtect\ScreenProtect\obj\Debug\ScreenProtect.pdb

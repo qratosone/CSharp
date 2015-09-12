@@ -1,0 +1,9 @@
+D:\DATA\GitHub\CSharp\AutoScore\AutoScore\bin\Debug\AutoScore.exe.config
+D:\DATA\GitHub\CSharp\AutoScore\AutoScore\bin\Debug\AutoScore.exe
+D:\DATA\GitHub\CSharp\AutoScore\AutoScore\bin\Debug\AutoScore.pdb
+D:\DATA\GitHub\CSharp\AutoScore\AutoScore\obj\Debug\AutoScore.csprojResolveAssemblyReference.cache
+D:\DATA\GitHub\CSharp\AutoScore\AutoScore\obj\Debug\AutoScore.Form1.resources
+D:\DATA\GitHub\CSharp\AutoScore\AutoScore\obj\Debug\AutoScore.Properties.Resources.resources
+D:\DATA\GitHub\CSharp\AutoScore\AutoScore\obj\Debug\AutoScore.csproj.GenerateResource.Cache
+D:\DATA\GitHub\CSharp\AutoScore\AutoScore\obj\Debug\AutoScore.exe
+D:\DATA\GitHub\CSharp\AutoScore\AutoScore\obj\Debug\AutoScore.pdb

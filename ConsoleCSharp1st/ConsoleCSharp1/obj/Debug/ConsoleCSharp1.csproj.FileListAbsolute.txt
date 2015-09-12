@@ -1,0 +1,5 @@
+D:\DATA\GitHub\CSharp\ConsoleCSharp1\ConsoleCSharp1\bin\Debug\ConsoleCSharp1.exe.config
+D:\DATA\GitHub\CSharp\ConsoleCSharp1\ConsoleCSharp1\bin\Debug\ConsoleCSharp1.exe
+D:\DATA\GitHub\CSharp\ConsoleCSharp1\ConsoleCSharp1\bin\Debug\ConsoleCSharp1.pdb
+D:\DATA\GitHub\CSharp\ConsoleCSharp1\ConsoleCSharp1\obj\Debug\ConsoleCSharp1.exe
+D:\DATA\GitHub\CSharp\ConsoleCSharp1\ConsoleCSharp1\obj\Debug\ConsoleCSharp1.pdb

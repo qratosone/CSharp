@@ -1,0 +1,9 @@
+D:\DATA\GitHub\CSharp\WinForm1\WinForm1\bin\Debug\WinForm1.exe.config
+D:\DATA\GitHub\CSharp\WinForm1\WinForm1\bin\Debug\WinForm1.exe
+D:\DATA\GitHub\CSharp\WinForm1\WinForm1\bin\Debug\WinForm1.pdb
+D:\DATA\GitHub\CSharp\WinForm1\WinForm1\obj\Debug\WinForm1.csprojResolveAssemblyReference.cache
+D:\DATA\GitHub\CSharp\WinForm1\WinForm1\obj\Debug\WinForm1.Form1.resources
+D:\DATA\GitHub\CSharp\WinForm1\WinForm1\obj\Debug\WinForm1.Properties.Resources.resources
+D:\DATA\GitHub\CSharp\WinForm1\WinForm1\obj\Debug\WinForm1.csproj.GenerateResource.Cache
+D:\DATA\GitHub\CSharp\WinForm1\WinForm1\obj\Debug\WinForm1.exe
+D:\DATA\GitHub\CSharp\WinForm1\WinForm1\obj\Debug\WinForm1.pdb
