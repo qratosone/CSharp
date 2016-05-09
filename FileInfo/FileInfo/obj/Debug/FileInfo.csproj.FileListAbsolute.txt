@@ -1,0 +1,6 @@
+D:\DATA\GitHub\CSharp\FileInfo\FileInfo\bin\Debug\FileInfo.exe.config
+D:\DATA\GitHub\CSharp\FileInfo\FileInfo\bin\Debug\FileInfo.exe
+D:\DATA\GitHub\CSharp\FileInfo\FileInfo\bin\Debug\FileInfo.pdb
+D:\DATA\GitHub\CSharp\FileInfo\FileInfo\obj\Debug\FileInfo.csprojResolveAssemblyReference.cache
+D:\DATA\GitHub\CSharp\FileInfo\FileInfo\obj\Debug\FileInfo.exe
+D:\DATA\GitHub\CSharp\FileInfo\FileInfo\obj\Debug\FileInfo.pdb

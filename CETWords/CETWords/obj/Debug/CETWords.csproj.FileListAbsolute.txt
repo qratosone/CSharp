@@ -1,0 +1,9 @@
+D:\DATA\GitHub\CSharp\CETWords\CETWords\bin\Debug\CETWords.exe.config
+D:\DATA\GitHub\CSharp\CETWords\CETWords\bin\Debug\CETWords.exe
+D:\DATA\GitHub\CSharp\CETWords\CETWords\bin\Debug\CETWords.pdb
+D:\DATA\GitHub\CSharp\CETWords\CETWords\obj\Debug\CETWords.csprojResolveAssemblyReference.cache
+D:\DATA\GitHub\CSharp\CETWords\CETWords\obj\Debug\CETWords.Form1.resources
+D:\DATA\GitHub\CSharp\CETWords\CETWords\obj\Debug\CETWords.Properties.Resources.resources
+D:\DATA\GitHub\CSharp\CETWords\CETWords\obj\Debug\CETWords.csproj.GenerateResource.Cache
+D:\DATA\GitHub\CSharp\CETWords\CETWords\obj\Debug\CETWords.exe
+D:\DATA\GitHub\CSharp\CETWords\CETWords\obj\Debug\CETWords.pdb

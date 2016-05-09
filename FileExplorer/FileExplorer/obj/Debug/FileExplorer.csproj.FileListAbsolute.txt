@@ -1,0 +1,9 @@
+D:\DATA\GitHub\CSharp\FileExplorer\FileExplorer\bin\Debug\FileExplorer.exe.config
+D:\DATA\GitHub\CSharp\FileExplorer\FileExplorer\obj\Debug\FileExplorer.csprojResolveAssemblyReference.cache
+D:\DATA\GitHub\CSharp\FileExplorer\FileExplorer\obj\Debug\FileExplorer.Properties.Resources.resources
+D:\DATA\GitHub\CSharp\FileExplorer\FileExplorer\obj\Debug\FileExplorer.csproj.GenerateResource.Cache
+D:\DATA\GitHub\CSharp\FileExplorer\FileExplorer\obj\Debug\FileExplorer.Form1.resources
+D:\DATA\GitHub\CSharp\FileExplorer\FileExplorer\bin\Debug\FileExplorer.exe
+D:\DATA\GitHub\CSharp\FileExplorer\FileExplorer\bin\Debug\FileExplorer.pdb
+D:\DATA\GitHub\CSharp\FileExplorer\FileExplorer\obj\Debug\FileExplorer.exe
+D:\DATA\GitHub\CSharp\FileExplorer\FileExplorer\obj\Debug\FileExplorer.pdb

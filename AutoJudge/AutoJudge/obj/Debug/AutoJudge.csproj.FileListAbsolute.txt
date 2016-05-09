@@ -1,0 +1,9 @@
+D:\DATA\GitHub\CSharp\AutoJudge\AutoJudge\bin\Debug\AutoJudge.exe.config
+D:\DATA\GitHub\CSharp\AutoJudge\AutoJudge\bin\Debug\AutoJudge.exe
+D:\DATA\GitHub\CSharp\AutoJudge\AutoJudge\bin\Debug\AutoJudge.pdb
+D:\DATA\GitHub\CSharp\AutoJudge\AutoJudge\obj\Debug\AutoJudge.csprojResolveAssemblyReference.cache
+D:\DATA\GitHub\CSharp\AutoJudge\AutoJudge\obj\Debug\AutoJudge.frmMain.resources
+D:\DATA\GitHub\CSharp\AutoJudge\AutoJudge\obj\Debug\AutoJudge.Properties.Resources.resources
+D:\DATA\GitHub\CSharp\AutoJudge\AutoJudge\obj\Debug\AutoJudge.csproj.GenerateResource.Cache
+D:\DATA\GitHub\CSharp\AutoJudge\AutoJudge\obj\Debug\AutoJudge.exe
+D:\DATA\GitHub\CSharp\AutoJudge\AutoJudge\obj\Debug\AutoJudge.pdb

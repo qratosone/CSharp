@@ -1,0 +1,6 @@
+D:\DATA\GitHub\CSharp\DelegateTimer\DelegateTimer\bin\Debug\DelegateTimer.exe.config
+D:\DATA\GitHub\CSharp\DelegateTimer\DelegateTimer\bin\Debug\DelegateTimer.exe
+D:\DATA\GitHub\CSharp\DelegateTimer\DelegateTimer\bin\Debug\DelegateTimer.pdb
+D:\DATA\GitHub\CSharp\DelegateTimer\DelegateTimer\obj\Debug\DelegateTimer.csprojResolveAssemblyReference.cache
+D:\DATA\GitHub\CSharp\DelegateTimer\DelegateTimer\obj\Debug\DelegateTimer.exe
+D:\DATA\GitHub\CSharp\DelegateTimer\DelegateTimer\obj\Debug\DelegateTimer.pdb

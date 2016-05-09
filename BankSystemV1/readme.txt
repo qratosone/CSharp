@@ -1,0 +1,6 @@
+主要修改：
+1、给Account增加了money，ID，Password三个属性
+2、为Bank类添加了Init方法，可以完成整个开户、关户和查找功能
+3、在Bank类中重载了FindAccount方法，用于读取输入的用户名与密码以找到账户
+4、建立了主程序，使用循环使得用户可以自由选择每一步要进行的操作
+5、添加了Credit类，继承了Account类并重载了SaveMoney和WithdrawMoney两个方法

@@ -1,0 +1,1 @@
+D:\DATA\GitHub\CSharp\New2016\UWP02\UWP02\UWP02.csproj;x86

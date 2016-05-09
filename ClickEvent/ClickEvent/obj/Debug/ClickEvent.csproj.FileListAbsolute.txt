@@ -1,0 +1,9 @@
+D:\DATA\GitHub\CSharp\ClickEvent\ClickEvent\bin\Debug\ClickEvent.exe.config
+D:\DATA\GitHub\CSharp\ClickEvent\ClickEvent\bin\Debug\ClickEvent.exe
+D:\DATA\GitHub\CSharp\ClickEvent\ClickEvent\bin\Debug\ClickEvent.pdb
+D:\DATA\GitHub\CSharp\ClickEvent\ClickEvent\obj\Debug\ClickEvent.csprojResolveAssemblyReference.cache
+D:\DATA\GitHub\CSharp\ClickEvent\ClickEvent\obj\Debug\ClickEvent.Form1.resources
+D:\DATA\GitHub\CSharp\ClickEvent\ClickEvent\obj\Debug\ClickEvent.Properties.Resources.resources
+D:\DATA\GitHub\CSharp\ClickEvent\ClickEvent\obj\Debug\ClickEvent.csproj.GenerateResource.Cache
+D:\DATA\GitHub\CSharp\ClickEvent\ClickEvent\obj\Debug\ClickEvent.exe
+D:\DATA\GitHub\CSharp\ClickEvent\ClickEvent\obj\Debug\ClickEvent.pdb

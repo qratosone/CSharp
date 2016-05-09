@@ -1,0 +1,6 @@
+D:\DATA\GitHub\CSharp\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.exe.config
+D:\DATA\GitHub\CSharp\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.exe
+D:\DATA\GitHub\CSharp\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.pdb
+D:\DATA\GitHub\CSharp\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.exe
+D:\DATA\GitHub\CSharp\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.pdb
+D:\DATA\GitHub\CSharp\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.csprojResolveAssemblyReference.cache
